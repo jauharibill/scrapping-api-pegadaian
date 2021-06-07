@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . "/vendor/autoload.php";
+namespace Jauharibill\Gold;
 
 use GuzzleHttp\Client;
 use Carbon\Carbon;
