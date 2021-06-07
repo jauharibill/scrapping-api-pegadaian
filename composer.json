@@ -1,0 +1,17 @@
+{
+    "name": "jauharibill/scrapping-api-pegadaian",
+    "description": "this package is used to get gold statistic from pegadaian",
+    "type": "library",
+    "require": {
+        "carbondate/carbon": "2.0.x-dev",
+        "guzzlehttp/guzzle": "7.4.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bill Tanthowi Jauhari",
+            "email": "bill.tanthowi.j@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
