@@ -1,5 +1,5 @@
 <?php
-namespace Jauharibill\Gold;
+namespace Gold;
 
 use GuzzleHttp\Client;
 use Carbon\Carbon;
