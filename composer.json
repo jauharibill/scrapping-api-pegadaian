@@ -2,10 +2,6 @@
     "name": "jauharibill/scrapping-api-pegadaian",
     "description": "this package is used to get gold statistic from pegadaian",
     "type": "library",
-    "require": {
-        "nesbot/carbon": "^2.47.0",
-        "guzzlehttp/guzzle": "^7.0"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -18,5 +14,9 @@
         "psr-0": {
             "Gold": "src/"
         }
+    },
+    "require": {
+        "nesbot/carbon": "2.49",
+        "guzzlehttp/guzzle": "7.0"
     }
 }
