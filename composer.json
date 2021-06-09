@@ -3,8 +3,8 @@
     "description": "this package is used to get gold statistic from pegadaian",
     "type": "library",
     "require": {
-        "carbondate/carbon": "dev-master",
-        "guzzlehttp/guzzle": "dev-master"
+        "nesbot/carbon": "^2.47.0",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "license": "MIT",
     "authors": [
