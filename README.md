@@ -6,7 +6,9 @@ please use composer version 1.x.x in order to implement this library
 
 ### Install
 
-```composer require jauharibill/scrapping-api-pegadaian:2.0```
+```
+composer require jauharibill/scrapping-api-pegadaian:2.0
+```
 
 ### POC
 
