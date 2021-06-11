@@ -1,5 +1,9 @@
 # Gold Pegadaian
 
+### Warning
+
+please use composer version 1.x.x in order to implement this library
+
 ### INSTALL
 
 ```composer require jauharibill/scrapping-api-pegadaian:2.0```
